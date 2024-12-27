@@ -40,7 +40,7 @@ Home Page
 
 
 About Page
-![image](https://github.com/user-attachments/assets/5d0b5d79-33c2-4c79-ad34-9fb531392efa)
+![image](https://github.com/user-attachments/assets/7fc4ff64-7461-4de5-a081-2770ab4ac238)
 
 
 📝 Contributing
